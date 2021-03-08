@@ -1,0 +1,9 @@
+﻿D:\Praca\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Stock Menagment System.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Data_Base.cpp
+C:\Users\Slawek\Downloads\Opracowanie Języki\Stock Management System\Stock Menagment System\Global_Function.h(16,2): warning C4091: "static ": zignorowano na lewo od "Global_Function" podczas gdy brak deklaracji zmiennej
+  Trwa generowanie kodu
+  0 of 341 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Stock Menagment System.vcxproj -> C:\Users\Slawek\Downloads\Opracowanie Języki\Stock Management System\Release\Stock Management System.exe
